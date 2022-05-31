@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/cartas/CartaAtaque.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/cartas/CartaAtaqueEspecial.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/cartas/Deck.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/cartas/ICartaAtaque.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/cartas/ICartas.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/enums/Efeitos.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/jogador/Jogador.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/tabuleiro/Campo.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/tabuleiro/ITabuleiro.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/tabuleiro/Tabuleiro.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/tabuleiro/TabuleiroParty.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/tabuleiro/TabuleiroVersus.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/JogoCartas/tabuleiro/Teste.java" charset="US-ASCII" />
+  </component>
+</project>
